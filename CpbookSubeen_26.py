@@ -1,5 +1,6 @@
 # Problem link: http://cpbook.subeen.com/2013/01/great-grading-scheme.html
 # Accepted, Solved by Tanvir Mahmud Emon
+# Python: 2.7.8
 tc = input()
 for i in range(tc):
     m = input()
